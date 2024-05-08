@@ -6,7 +6,7 @@
 
 ----------------------------------------------
 ------------MOD CODE -------------------------
-local new_start_hand_size = 20
+local new_start_hand_size = 52
 local Backapply_to_runRef_permanent = Back.apply_to_run
 -- Function used to apply new effects to runs
 function Back.apply_to_run(arg)
